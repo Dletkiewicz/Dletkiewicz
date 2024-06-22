@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dariusz</h1>
-<h3 align="center">A passionate Java Developer from Poland</h3>
+<h3 align="center">A Java Developer from Poland</h3>
 
-- 🔭 I’m currently working on [SteelStory](https://github.com/Dletkiewicz/SteelStory)
 
 - 📫 How to reach me **kontaktletkiewicz@gmail.com**
 
