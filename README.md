@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dariusz</h1>
+<h1 align="center">Hi, I'm Dariusz</h1>
 <h3 align="center">A Java Developer from Poland</h3>
-
-
-- 📫 How to reach me **kontaktletkiewicz@gmail.com**
 
 <p align="left">
 </p>
